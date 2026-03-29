@@ -13,7 +13,7 @@ I am a backend developer passionate about building scalable, secure, and maintai
 * ⚙️ **Systems Engineering:** I build systems orchestrated with PM2 and Kubernetes, utilizing asynchronous queue-based communication (RabbitMQ and Kafka) and per-message key rotation for security.
 * 🐧 **Development Environment:** I am a Linux enthusiast, doing my heavy lifting and backend development on Pop!_OS.
 * 🤝 **Leadership:** Previously mentored trainees and led a 4-person frontend team as a Volunteer/RA at The Bridge of Hopes, building responsive React applications and custom admin panels.
-* 📫 **Let's Connect:** mtkinverse@gmail.com | [🔗 View My Complete Portfolio](YOUR_PORTFOLIO_LINK_HERE)
+* 📫 **Let's Connect:** mtkinverse@gmail.com | [🔗 View My Complete Portfolio](https://portfolio-tk-one.vercel.app/)
 
 ---
 
